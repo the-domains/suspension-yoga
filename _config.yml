@@ -1,0 +1,28 @@
+name: Suspension Yoga
+favicon: null
+layout_spectrum: 0.4909254133235663
+typography_spectrum: 0.30631189374253154
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8129874507430941
+  lightness: 0.9878556048497558
+  saturation: 0.2313430777285248
+  rhythmicContrast: 0.30495629273355007
+purpose: []
